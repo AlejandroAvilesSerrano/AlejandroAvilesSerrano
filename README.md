@@ -3,6 +3,12 @@
 
 ---
 
+## 🚀 About Me
+
+Computer Engineer with experience in R&D projects related to Artificial Intelligence, Cybersecurity and Distributed Systems at the University of Murcia. I have contributed to the development of large-scale software platforms, backend services, distributed infrastructures and federated learning solutions.
+
+My main interests include Artificial Intelligence, Federated Learning, Distributed Systems, Backend Development and Software Architecture.
+
 ## 🔭 I’ve been working on
 
 - **NEBULA** – A decentralized federated learning platform 🔗 [CyberDataLab/nebula](https://github.com/CyberDataLab/nebula)
@@ -24,6 +30,7 @@
 ## 📫 How to reach me
 
 📧 alejandroavilesserrano@gmail.com
+
 📧 alejandro.aviles1@um.es
 
 ---
